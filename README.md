@@ -29,4 +29,8 @@ In Progress
 ## Images
 
 <img width="1433" height="1000" alt="twoclassgoodstep" src="https://github.com/user-attachments/assets/05ddbbb6-2d30-40ad-8e7b-c9be3d07b84a" />
-An example output of conifer versus deciduous classifaction near Flagstaff, Arizona
+An example output of conifer versus deciduous classifaction near Flagstaff, Arizona.
+
+<img width="1433" height="1000" alt="fiveclass" src="https://github.com/user-attachments/assets/ddf36a12-e81e-4c8d-87c9-dea0b55e27c2" />
+An example output of five class classifaction near Flagstaff, Arizona.
+
