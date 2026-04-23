@@ -1,4 +1,4 @@
-# SpeciesPrediction
+# Tree Species Prediction
 Repostitory for tree species prediction work using LiDAR data
 
 ## Abstract
@@ -27,3 +27,6 @@ The goal of this study was to produce models capable of classifying trees in Nor
 ## Results
 In Progress
 ## Images
+
+<img width="8066" height="5625" alt="twoclassgoodstep" src="https://github.com/user-attachments/assets/05ddbbb6-2d30-40ad-8e7b-c9be3d07b84a" />
+An example output of classifaction near Flagstaff, Arizona
