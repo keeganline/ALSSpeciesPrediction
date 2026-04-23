@@ -15,4 +15,5 @@ The goal of this study was to produce models capable of classifying trees in Nor
   *   Aspen
   *   Gambel Oak
   *   Bigtooth Maple
-* 
+* Airborne LiDAR (ALS) data was recorded for the region with each tree being segmented from the overall point cloud
+* Trees were then matched with the point cloud and over 200 metrics were calculated for each one
