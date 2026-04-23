@@ -25,6 +25,5 @@ The goal of this study was to produce models capable of classifying trees in Nor
 * Best resulting model for each model type were selected.
 
 ## Results
-tbd...
-
+In Progress
 ## Images
